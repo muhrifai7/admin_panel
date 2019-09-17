@@ -1,5 +1,5 @@
 ## admin_panel
-Pengelolaan data admin, user and  simple ecommers web using ajx
+Pengelolaan data admin, user and  simple ecommers mengunakan codeigniter
 
 ## preview
 ![Mamiclone Demo](ezgif.com-resize.gif)
