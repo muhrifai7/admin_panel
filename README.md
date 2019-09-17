@@ -5,10 +5,10 @@ Pengelolaan data admin, user and  simple ecommers web using ajx
 ![Mamiclone Demo](ezgif.com-resize.gif)
 ## Screenshot
 <p>
-<img align="left" src="https://github.com/muhrifai7/admin_panel/blob/master/assets/images/register.png" width="200" height="400"  />
-<img align="center" src="https://github.com/muhrifai7/admin_panel/blob/master/assets/images/phpdasboard.png" width="200" height="400" />
-<img align="center" src="https://github.com/muhrifai7/admin_panel/blob/master/assets/images/submenu.png" width="200" height="400" />
-<img align="center" src="https://github.com/muhrifai7/admin_panel/blob/master/assets/images/ecommers.png" width="200" height="400" />
+<img align="left" src="https://github.com/muhrifai7/admin_panel/blob/master/assets/images/register.png" width="300" height="400"  />
+<img align="center" src="https://github.com/muhrifai7/admin_panel/blob/master/assets/images/phpdasboard.png" width="300" height="400" />
+<img align="left" src="https://github.com/muhrifai7/admin_panel/blob/master/assets/images/submenu.png" width="300" height="400" />
+<img align="center" src="https://github.com/muhrifai7/admin_panel/blob/master/assets/images/ecommers.png" width="300" height="400" />
 </p>
 
 ************
