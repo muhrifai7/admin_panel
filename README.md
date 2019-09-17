@@ -1,7 +1,9 @@
 ## admin_panel
-pengelolaan data admin, user and  simple ecommers web using ajx
+Pengelolaan data admin, user and  simple ecommers web using ajx
 
-## 
+## preview
+![Mamiclone Demo](ezgif.com-resize.gif)
+
 ************
 Installation
 ************
