@@ -1,7 +1,3 @@
-Admin Panel
-
-test
-test
 ###################
 What is CodeIgniter
 ###################
